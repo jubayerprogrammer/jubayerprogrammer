@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jubayer Alam Shahriear</h1>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jubayerpythondevoloper&label=Profile%20views&color=0e75b6&style=flat" alt="jubayerpythondevoloper" />
+  <img src="https://komarev.com/ghpvc/?username=jubayerprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="jubayerprogrammer" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jubayerpythondevoloper&theme=gruvbox&margin-w=10&margin-h=10" alt="jubayerpythondevoloper" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jubayerprogrammer&theme=gruvbox&margin-w=10&margin-h=10" alt="jubayerprogrammer" />
   </a>
 </p>
 
@@ -20,6 +21,7 @@
 ---
 
 ### 🌐 Connect with me:
+
 <p align="left">
   <a href="https://linkedin.com/in/jubayer-alam" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jubayer Alam" height="30" width="40" />
@@ -29,6 +31,7 @@
 ---
 
 ### 🛠️ Languages and Tools:
+
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
@@ -53,6 +56,7 @@
 ---
 
 ### 📊 GitHub Stats:
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jubayerpythondevoloper&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jubayerprogrammer&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
