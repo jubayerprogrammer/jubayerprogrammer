@@ -46,9 +46,14 @@
 </p>
 
 ---
-# 📊 GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jubayerprogrammer&show_icons=true&locale=en&layout=compact"  />
+## 📊 GitHub Stats
+<p align="center">
+  <!-- Main GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jubayerprogrammer&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" width="45%" />
 
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayerprogrammer&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" alt="Top Languages" width="45%" />
+</p>
 
 
