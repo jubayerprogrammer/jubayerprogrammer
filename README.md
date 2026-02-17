@@ -48,21 +48,7 @@
 ---
 # 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayerprogrammer&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Top Languages" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=jubayerprogrammer&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=false&cache_seconds=86400" alt="GitHub Stats" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jubayerprogrammer&theme=radical&hide_border=false" alt="GitHub Streak Stats" width="70%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jubayerprogrammer&theme=radical&hide_border=false" alt="Wakatime Stats" width="48%" />
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=jubayerprogrammer&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="48%" />
-</div>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jubayerprogrammer&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 
 
 
