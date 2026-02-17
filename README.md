@@ -23,6 +23,7 @@
 
 ---
 
+
 ## 🛠️ Languages & Tools
 <p align="center">
   <a href="https://www.python.org" target="_blank">
@@ -43,7 +44,14 @@
   <a href="https://seaborn.pydata.org/" target="_blank">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50" />
   </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50" />
+  </a>
 </p>
+
+
+
+    
 
 ---
 
