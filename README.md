@@ -50,11 +50,10 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jubayerprogrammer&show_icons=true&theme=radical&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayerprogrammer&layout=compact&theme=radical" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jubayerprogrammer&show_icons=true&theme=radical&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayerprogrammer&layout=compact&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jubayerprogrammer&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jubayerprogrammer&theme=radical" />
 </p>
-
