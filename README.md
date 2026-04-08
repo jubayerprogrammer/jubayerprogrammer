@@ -3,7 +3,7 @@
 ---
 
 ## 🔹 About Me
-- 🔭 I’m currently working on **Backend Development using Django & FastAPI**  
+- 🔭 I’m currently working on **Backend Development using Django**  
 - 🌱 I’m learning **Machine Learning & Deep Learning**  
 - 💬 Ask me about **Python, Django, REST APIs, FastAPI**  
 - 📫 Reach me at: **shahriearjubayer199@gmail.com**  
